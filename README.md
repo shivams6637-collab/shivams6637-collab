@@ -1,115 +1,111 @@
- <!-- ===================== HEADER ===================== -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=48&color=0B1120&text=SHIVAM%20SINGH%20%2F%2F%20PROFILE%20SYSTEM&fontColor=94A3B8&fontSize=17&animation=fadeIn" width="100%"/>
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="38%" valign="top">
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:312E81,100:7C3AED&text=SHIVAM%20SINGH&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Data%20Analytics%20%7C%20Software%20Development%20%7C%20BCA%20Student&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<sub>V I S U A L . M A P</sub>
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=BCA+Student+%F0%9F%8E%93;Aspiring+Data+Analyst+%F0%9F%93%8A;Software+Development+Enthusiast+%F0%9F%92%BB;Turning+Data+Into+Insights+%F0%9F%9A%80;Learning+%7C+Building+%7C+Growing" alt="Typing SVG"/>
-</a>
+<table>
+<tr>
+<td align="center" style="border:1px solid #22D3EE;background:#0B1120;padding:5px;">
 
-<br/>
+<img src="./assets/profile.png" width="100%" alt="Shivam Singh"/>
 
-<img src="https://img.shields.io/badge/Focus-Data%20Analytics-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Role-BCA%20Student-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20To-Opportunities-10B981?style=for-the-badge"/>
+</td>
+</tr>
+</table>
+
+</div>
+
+</td>
+
+<td width="62%" valign="top">
+
+<h3><code>SYSTEM.INFO</code></h3>
+
+<img src="https://img.shields.io/badge/SYSTEM-LIVE-10B981?style=flat-square"/>
+
+**shivam.singh // profile**
+
+| FIELD | DATA |
+|:---|:---|
+| Subject | Shivam Singh |
+| Role | BCA Student · Aspiring Data Analyst |
+| Origin | India |
+| Education | BCA · CGC Jhanjeri |
+| Status | Learning \| Building \| Developing |
+| Toolchain | VS Code, Git, GitHub |
+| Core.Lang | Python, Java, C, JavaScript |
+| Core.Analytics | SQL, Power BI, Excel |
+| Core.Data | Pandas, NumPy |
+| Core.Frontend | HTML, CSS, React |
+| Core.Backend | FastAPI, REST API |
+| Core.Database | MongoDB, SQL |
+| Core.Tools | Git, GitHub, MS Office |
+
+**CONTACT**
+
+- Grid.Mail — YOUR_EMAIL
+- Grid.LinkedIn — YOUR_LINKEDIN
+- Grid.GitHub — shivams6637-collab
+- Grid.Portfolio — Portfolio Website
+- Grid.Projects — StockViz / SRMS / AI Chatbot
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### PRESENT.STATUS
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=900&pause=350&color=A78BFA&center=true&vCenter=true&width=700&lines=%F0%9F%83%8F+SYSTEM+ONLINE;%F0%9F%83%8F+LEARNING+MODE+ACTIVE;%F0%9F%83%8F+BUILDING+PROJECTS;%F0%9F%83%8F+DATA+%7C+CODE+%7C+ANALYTICS;%F0%9F%83%8F+FUTURE+DATA+ANALYST" alt="Animated Joker Status"/>
+
+<sub>IDENTITY : STUDENT / DEVELOPER / ANALYTICS ENTHUSIAST</sub>
 
 </div>
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
+## `01 // ABOUT.ME`
 
-## 👨‍💻 About Me
+<img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation"/>
 
-<img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+Hey! I'm **Shivam Singh**, a Bachelor of Computer Applications student interested in technology, data analytics, business intelligence, and software development.
 
-Hi, I'm **Shivam Singh**, a BCA student passionate about **Data Analytics, Technology, Software Development, and Problem Solving**.
+I enjoy exploring data, developing projects, learning new technologies, and solving problems through practical implementation.
 
-I enjoy working with data, exploring technology, building projects, and transforming ideas into practical solutions.
-
-Currently, I am strengthening my technical skills in data analytics, programming, database management, and web development while working on real-world projects.
-
-- 🎓 Pursuing Bachelor of Computer Applications (BCA)
-- 📊 Interested in Data Analytics & Business Intelligence
-- 💻 Learning programming and software development
-- 🗄️ Exploring databases and data management
-- 📈 Building projects to improve practical knowledge
-- 🚀 Focused on continuous learning and career growth
+- 🎓 BCA Student
+- 📊 Aspiring Data Analyst
+- 💻 Software & Web Development
+- 📈 Data Visualization & Business Intelligence
+- 🗄️ Database Management
+- 🚀 Learning through real-world projects
 
 <br clear="right"/>
 
 ---
 
-## 🎯 Career Interests
-
-<div align="center">
-
-| 📊 Data Analytics | 💻 Software Development | 📈 Business Intelligence |
-|:---:|:---:|:---:|
-| Data Cleaning & Analysis | Web Applications | Power BI Dashboards |
-| SQL & Excel | Python & Java | Reporting & Insights |
-| Data Visualization | APIs & Backend | Business Problem Solving |
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,js" />
-</p>
-
-### 🌐 Web Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-### 📊 Data Analytics
-
-<p align="center">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-### ⚙️ Backend & Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,mongodb" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-</p>
-
----
-
-## 📚 Education
+## `02 // EDUCATION.LOG`
 
 <table width="100%">
 <tr>
-<td width="70%">
+<td>
 
 ### 🎓 Bachelor of Computer Applications
 
-**Chandigarh Group of Colleges, Jhanjeri, Mohali**
+**Chandigarh Group of Colleges, Jhanjeri**
 
-📅 2024 – 2027
+Mohali, Punjab, India
 
-</td>
-<td width="30%" align="center">
-
-<img src="https://img.shields.io/badge/BCA-Undergraduate-7C3AED?style=for-the-badge"/>
+`2024 – 2027`
 
 </td>
 </tr>
@@ -117,190 +113,303 @@ Currently, I am strengthening my technical skills in data analytics, programming
 
 ---
 
-## 💼 Experience & Activities
+## `03 // CORE.MODULES`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### `Programming`
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js"/>
+
+- Programming Fundamentals
+- Logic Building
+- Problem Solving
+
+</td>
+
+<td width="50%" valign="top">
+
+### `Data.Analytics`
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+- Pandas
+- NumPy
+- Data Analysis
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `Frontend`
+
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+- HTML
+- CSS
+- React
+
+</td>
+
+<td width="50%" valign="top">
+
+### `Backend`
+
+<img src="https://skillicons.dev/icons?i=fastapi,mongodb"/>
+
+- Python
+- FastAPI
+- REST API
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### `Database`
+
+<img src="https://img.shields.io/badge/SQL-Database-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+- DBMS
+- Data Management
+
+</td>
+
+<td width="50%" valign="top">
+
+### `Toolchain`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+- Git
+- GitHub
+- VS Code
+- Microsoft Office 365
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04 // EXPERIENCE.LOG`
 
 <details>
-<summary><b>📊 Data Analytics Intern — Insight Analytics Pvt. Ltd.</b></summary>
+<summary><b>📊 Data Analytics Internship — Insight Analytics Pvt. Ltd.</b></summary>
 
 <br/>
 
-- Gained exposure to data analytics workflows.
-- Worked on data-related learning and analytical tasks.
-- Developed understanding of data handling and analysis.
+- Exposure to data analytics workflows
+- Analytical tasks and data-oriented learning
+- Developing practical understanding of analysis
 
 </details>
 
 <details>
-<summary><b>🌐 Web Development Intern — CodeCraft Technologies</b></summary>
+<summary><b>🌐 Web Development Internship — CodeCraft Technologies</b></summary>
 
 <br/>
 
-- Gained experience with web development concepts.
-- Practiced frontend development and website building.
-- Improved technical understanding through practical work.
+- Web development fundamentals
+- Frontend development practice
+- Practical software development learning
 
 </details>
 
 <details>
-<summary><b>🏫 Campus Data Volunteer — Chandigarh Group of Colleges</b></summary>
+<summary><b>🏫 Campus Data Volunteer — CGC</b></summary>
 
 <br/>
 
-- Participated in campus-related data activities.
-- Developed coordination and organizational skills.
-- Gained exposure to working with information and team activities.
+- Campus data activities
+- Coordination and teamwork
+- Organizational experience
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+## `05 // GRID.PROJECTS`
 
 <div align="center">
+
+<img src="https://img.shields.io/badge/PROJECTS-04-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-10B981?style=for-the-badge"/>
+
+</div>
+
+### `PROJECT.01` — StockViz
+
+<details>
+<summary><b>📈 Real-Time Stock Market Visualization Platform</b></summary>
+
+<br/>
+
+A stock market platform focused on market data, stock price visualization, interactive charts, and market analysis.
+
+**Features**
+
+- Interactive stock charts
+- Multiple chart types
+- Market indices
+- Company search
+- Multiple time intervals
+- Market data integration
+
+**Stack**
+
+`React` `Python` `FastAPI` `MongoDB` `WebSockets`
 
 <a href="https://github.com/shivams6637-collab/StockViz-Real-Time-Stock-Market">
-<img src="https://img.shields.io/badge/PROJECT%2001-STOCKVIZ-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-GITHUB-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</div>
-
-### 📈 StockViz — Real-Time Stock Market Visualization
-
-A stock market visualization platform designed to display market data, stock price movements, and interactive charts.
-
-**Key Features**
-
-- 📊 Interactive stock price charts
-- 📈 Real-time market visualization
-- 📉 Multiple chart types
-- ⏱️ Different time intervals
-- 🏦 Market indices visualization
-- 🔄 Market data integration
-
-**Tech Stack**
-
-`React.js` `FastAPI` `Python` `JavaScript` `MongoDB` `WebSockets`
-
-<a href="https://github.com/shivams6637-collab/StockViz-Real-Time-Stock-Market">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+</details>
 
 ---
 
-<div align="center">
+### `PROJECT.02` — SRMS
 
-<a href="https://github.com/shivams6637-collab/student-record-management-system">
-<img src="https://img.shields.io/badge/PROJECT%2002-STUDENT%20RECORD%20MANAGEMENT-2563EB?style=for-the-badge"/>
-</a>
+<details>
+<summary><b>🗄️ Student Record Management System</b></summary>
 
-</div>
+<br/>
 
-### 🗄️ Student Record Management System
+A web-based system designed to manage student records and organize information through a database.
 
-A system designed to manage student information efficiently with database functionality.
+**Features**
 
-**Key Features**
+- Student information management
+- Record organization
+- Backend API
+- Database integration
+- Web-based interface
 
-- 📝 Add student records
-- 🔍 Search student information
-- ✏️ Update existing records
-- 🗃️ Organize student data
-- 📚 Student record management
+**Stack**
 
-**Tech Stack**
+`Python` `FastAPI` `MongoDB` `React` `Vite`
 
-`Programming` `Database` `Data Management`
-
-<a href="https://github.com/shivams6637-collab/student-record-management-system">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+</details>
 
 ---
 
-<div align="center">
+### `PROJECT.03` — AI Chatbot
 
-<a href="https://github.com/shivams6637-collab/Ai-chatbot">
-<img src="https://img.shields.io/badge/PROJECT%2003-AI%20CHATBOT-10B981?style=for-the-badge"/>
-</a>
+<details>
+<summary><b>🤖 Artificial Intelligence Chatbot</b></summary>
 
-</div>
+<br/>
 
-### 🤖 AI Chatbot
+A chatbot project focused on conversational interactions and automated responses.
 
-A Python-based chatbot that processes user input and generates conversational responses.
+**Focus**
 
-**Key Features**
+- Conversational interaction
+- Input processing
+- Response generation
+- Programming logic
 
-- 💬 Interactive conversation
-- 🧠 Input processing
-- 🤖 Response generation
-- 🐍 Python-based implementation
+**Stack**
 
-**Tech Stack**
+`Python` `AI Concepts`
 
-`Python` `AI Concepts` `Logic Building`
-
-<a href="https://github.com/shivams6637-collab/Ai-chatbot">
-<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+</details>
 
 ---
 
-## 📊 GitHub Statistics
+### `PROJECT.04` — Personal Portfolio
+
+<details>
+<summary><b>🌐 Portfolio Website</b></summary>
+
+<br/>
+
+A personal portfolio website designed to present profile information, technical skills, projects, and professional journey.
+
+**Stack**
+
+`Next.js` `React` `JavaScript` `CSS`
+
+</details>
+
+---
+
+## `06 // GITHUB.STATS`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivams6637-collab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivams6637-collab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivams6637-collab&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivams6637-collab&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivams6637-collab&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=shivams6637-collab&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## `07 // CONTRIBUTION.ACTIVITY`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shivams6637-collab/shivams6637-collab/output/snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivams6637-collab&bg_color=0B1120&color=A78BFA&line=8B5CF6&point=22D3EE&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity%20%2F%2F%20System%20Logs" width="100%"/>
 
 </div>
 
 ---
 
-## 💡 Currently Learning
+## `08 // CONTRIBUTION.SNAKE`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-Database%20Queries-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-Data%20Analysis-green?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pandas-Data%20Manipulation-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/NumPy-Data%20Processing-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/React-Web%20Development-blue?style=flat-square"/>
+<img src="https://raw.githubusercontent.com/shivams6637-collab/shivams6637-collab/output/snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## `09 // CURRENTLY.LEARNING`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SQL-Queries-2563EB?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-Dashboards-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Processing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-Data_Handling-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</div>
+
+---
+
+## `10 // NETWORK.CONNECTIONS`
 
 <div align="center">
 
 <a href="https://github.com/shivams6637-collab">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Connect-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -309,8 +418,10 @@ A Python-based chatbot that processes user input and generates conversational re
 
 <div align="center">
 
-### 💫 *"Learning every day. Building with purpose. Growing through experience."*
+### `SYSTEM.MESSAGE`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:0F172A&height=120&section=footer"/>
+**Learning continuously. Building consistently. Moving forward.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:312E81,100:0B1120"/>
 
 </div>
